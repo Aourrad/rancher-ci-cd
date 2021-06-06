@@ -21,3 +21,5 @@ kind: ClusterGroup
       matchLabels:
         clusterType: dev
 ```
+
+- init in dev 
